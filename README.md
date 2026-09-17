@@ -34,6 +34,6 @@ Unityの学習をきっかけに制作を開始し、1ステージのゲーム�
 
 [Unityroomでプレイ](https://unityroom.com/games/adventureinvivo2)
 
-##動画
+## 動画
 
-後日追加予定
+[プレイ動画](https://youtu.be/YbUvxG7K-Hs)
